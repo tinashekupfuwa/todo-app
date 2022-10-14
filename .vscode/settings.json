@@ -1,0 +1,17 @@
+{
+  "workbench.colorCustomizations": {
+    "[Cobalt One Dark+]": {
+      "sideBar.background": "#0A2333",
+      "sideBar.border": "#F4E8C1",
+      "statusBar.background": "#C8D6AF",
+      "statusBar.noFolderBackground": "#222225",
+      "statusBar.debuggingBackground": "#511f1f",
+      "sideBarSectionHeader.background": "#071822",
+      "sideBarTitle.foreground": "#F4E8C1"
+    },
+    "editorRuler.foreground": "#4093ff",
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "focusBorder": "#FFE381"
+  }
+}
